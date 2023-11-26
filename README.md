@@ -1,11 +1,8 @@
 # UTS_PBO_ITBS_221232030
 MUHAMAD RAMADHAN FIRDAUS_ULANGAN TENGAH SEMESTER 
 
-//BERIKUT JAWABAN CODE DARI SOAL//
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+//BERIKUT JAWABAN SOAL ULANGAN//
+
 package pkg1_strukturproject;
 
 /**
@@ -101,3 +98,4 @@ public class Main {
     }
 }
  
+Setiap objek masakan dibuat menggunakan konstruktor kelas turunan dan dapat memanggil method yang ada di kelas induk dan kelas turunannya sesuai kebutuhan. Program ini menggunakan konsep dasar pemrograman berorientasi objek seperti Class, Object, Property, dan Method.
