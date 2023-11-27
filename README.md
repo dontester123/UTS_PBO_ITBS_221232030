@@ -97,5 +97,9 @@ public class Main {
         sateMaranggi.tambahkanBahanTambahan();
     }
 }
- 
+
+Hasil output di atas : 
+![image](https://github.com/dontester123/UTS_PBO_ITBS_221232030/assets/125118311/c436aab3-3e84-4ded-b654-b37adbc4d159)
+
+
 Setiap objek masakan dibuat menggunakan konstruktor kelas turunan dan dapat memanggil method yang ada di kelas induk dan kelas turunannya sesuai kebutuhan. Program ini menggunakan konsep dasar pemrograman berorientasi objek seperti Class, Object, Property, dan Method.
